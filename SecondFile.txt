@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 Deloitte
+=======
+Consulting
+>>>>>>> c700166e985a8a02ff94a7fc4af3bd7ea048e2aa
